@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/swc-win32-x64-msvc": "^14.2.0",
     "clsx": "^2.1.0",
     "framer-motion": "11.15.0",
     "lucide-react": "^0.359.0",
