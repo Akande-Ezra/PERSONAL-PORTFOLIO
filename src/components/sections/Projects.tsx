@@ -3,22 +3,16 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "AI-Blockchain Healthcare Framework",
-    description: "Architected a hybrid system for secure medical symptom analysis using AI-driven diagnostics integrated with Blockchain for data integrity. Designed the end-to-end data acquisition flow and cryptographic verification processes.",
-    tech: ["Next.js", "React", "Tailwind CSS", "Web3", "AI Diagnostics"],
+    title: "Research Lab",
+    description: "AI Research Streamer, focusing on your goals for real-time research tracking and AI-powered simplification.",
+    tech: ["Next.js", "Typescript", "Tailwind CSS", "AI Diagnostics"],
     live: "https://research-lab-pi.vercel.app"
   },
   {
-    title: "CampusStay Hostel Hub",
-    description: "Engineered a multi-role web platform supporting unique dashboards for students, agents, and administrators, focusing on scalable state management and role-based access control.",
-    tech: ["Next.js", "React", "Tailwind CSS", "TypeScript"],
-    live: ""
-  },
-  {
-    title: "NASA Mission Telemetry Dashboard",
-    description: "Engineered a real-time telemetry application utilizing NASA API integration and JPL Horizons ephemeris data. Designed interactive 3D mission stages and data visualization modules for live space mission tracking.",
-    tech: ["Next.js", "React", "Tailwind CSS", "Three.js", "NASA API"],
-    live: ""
+    title: "Nexus Task",
+    description: "A strong introductory paragraph explaining that it's a premium, beautifully designed landing page for a fictional Collaborative Task Management tool bypassing authentication to show off interactive features.",
+    tech: ["Next.js", "React", "Tailwind CSS",],
+    live: "nexus-task-theta.vercel.app"
   },
   {
     title: "ON Collective",
@@ -37,6 +31,12 @@ const projects = [
     description: "A multifaceted creator portfolio blending words, voice, and presence into compelling narratives that inspire and engage.",
     tech: ["TypeScript", "CSS", "JavaScript"],
     live: "https://creative-porfolio.vercel.app"
+  },
+  {
+    title: "Weather App",
+    description: "This is a clean, interactive weather forecasting application that provides real-time meteorological data and multi-day forecasts for searched locations.",
+    tech: ["CSS", "JavaScript"],
+    live: "weather-app-update-livid.vercel.app"
   }
 ];
 
