@@ -36,7 +36,7 @@ const projects = [
     title: "Weather App",
     description: "This is a clean, interactive weather forecasting application that provides real-time meteorological data and multi-day forecasts for searched locations.",
     tech: ["CSS", "JavaScript"],
-    live: "weather-app-update-livid.vercel.app"
+    live: "https://weather-app-update-livid.vercel.app"
   }
 ];
 
