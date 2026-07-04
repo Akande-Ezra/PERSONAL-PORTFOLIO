@@ -12,7 +12,7 @@ const projects = [
     title: "Nexus Task",
     description: "A strong introductory paragraph explaining that it's a premium, beautifully designed landing page for a fictional Collaborative Task Management tool bypassing authentication to show off interactive features.",
     tech: ["Next.js", "React", "Tailwind CSS",],
-    live: "nexus-task-theta.vercel.app"
+    live: "https://nexus-task-theta.vercel.app"
   },
   {
     title: "ON Collective",
